@@ -1,5 +1,5 @@
-# About-Me
-# Hi there 👋
+
+# Hey!
 
 I’m **Saanvi Bakshi**, a **3rd year Computer Science** student specializing in **Cognitive Science** 🧠 at **Queen’s University**, Kingston, Canada.  
 
